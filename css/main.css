@@ -2201,6 +2201,10 @@
 	a.icon.alt:active:before {
 		background-color: #37a6cb;
 	}
+	.icon .fa-facebook{
+		margin: left 1em;
+		font-size: 2.5em;
+	}
 
 /* Image */
 
@@ -3905,6 +3909,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#242c47', end
 		font-size: 0.8em;
 		list-style: none;
 		padding-left: 0;
+		float: right;
 	}
 
 		#footer .copyright li {
